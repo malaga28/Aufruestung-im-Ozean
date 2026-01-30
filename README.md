@@ -1,4 +1,4 @@
 # Aufrüstung im Ozean
 
 ![DEMO](./thumbnail_compress_crop.jpg)
-Sentinel 2 Aufnahme des vom China kontrollierten Mischief Reef im Südchinesischen Meer vom 06.02.2025
+Sentinel-2A Aufnahme des von China kontrollierten Mischief-Reef am 06. Feruar 2025, Highlight Optimized Natural Color
